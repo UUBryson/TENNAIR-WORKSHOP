@@ -1,4 +1,5 @@
 *
 !*.py
 !enrollment.csv
+!institutional_data.csv
 !.gitignore
